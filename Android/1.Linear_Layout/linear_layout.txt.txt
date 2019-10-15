@@ -1,0 +1,3 @@
+Linear layout is the layout that arrange the component base on orientation selected.
+If orientation is vertical, new component that have been appended is added under the old components.
+If orientation is vertical, new component that have been appended is added right of the old components.

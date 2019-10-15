@@ -1,0 +1,6 @@
+1. Create menu folder under res folder
+2. Create menu resource file(.xml) in menu folder
+3. Define menu items
+4. Override onCreateContextMenu()
+5. Inflate menu into activity by menuInflator object
+6. Register the context menu to the app component in the onCreate block

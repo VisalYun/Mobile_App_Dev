@@ -1,0 +1,4 @@
+1. Create menu folder under res folder
+2. Create menu resource file(.xml) in menu folder
+3. Define menu items
+4. Inflate menu to button

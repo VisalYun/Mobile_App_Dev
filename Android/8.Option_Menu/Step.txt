@@ -1,0 +1,5 @@
+1. Create menu folder in res
+2. Create menu resource file(.xml) in menu folder
+3. Define menu items
+4. Override onCreateOptionMenu()
+5. Inflate menu into activity by menuInflater object
